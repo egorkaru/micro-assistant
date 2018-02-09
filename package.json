@@ -1,0 +1,29 @@
+{
+  "name": "micro-assistant",
+  "version": "1.0.0",
+  "description": "Making actions-on-google Micro-frendly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorkaru/micro-assistant.git"
+  },
+  "keywords": [
+    "micro",
+    "microservice",
+    "zeit",
+    "google",
+    "assistant"
+  ],
+  "author": "Egor Rudinsky <ilove@egor.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egorkaru/micro-assistant/issues"
+  },
+  "homepage": "https://github.com/egorkaru/micro-assistant#readme",
+  "devDependencies": {
+    "micro": "^9.1.0"
+  }
+}
